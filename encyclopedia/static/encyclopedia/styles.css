@@ -21,6 +21,7 @@ textarea {
 }
 
 .main {
+    
     padding: 10px;
 }
 
@@ -54,4 +55,7 @@ textarea {
 
 .create form button {
     width: 100px;
+}
+ul{
+    margin: 20px;
 }
